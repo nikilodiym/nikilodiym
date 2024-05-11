@@ -1,0 +1,32 @@
+<details>
+<summary>Click to see the text</summary>
+
+<details>
+<summary>Click to see the code</summary>
+
+```markdown
+<!-- Hi Everyone, I`m Nikita -->
+<h1 style="color:blue; font-size:40px;">Hi Everyone, I`m Nikita</h1>
+
+<!-- Nice and understandable text -->
+<p>This is a nice and understandable text.</p>
+
+<!-- Animation -->
+<script>
+  setTimeout(function() {
+    var text = document.querySelector('h1');
+    var str = text.textContent;
+    var i = 0;
+    var timer = setInterval(function() {
+      text.textContent = str.slice(0, i);
+      i++;
+      if (i > str.length) {
+        clearInterval(timer);
+        setTimeout(function() {
+          text.textContent = "Go to my profile";
+        }, 1000);
+      }
+    }, 100);
+  }, 5000);
+</script>
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/9e14cce1-b0f2-4213-a6d2-33bd557f54fd)
