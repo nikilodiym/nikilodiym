@@ -6,7 +6,12 @@
 
 <p>⚡ Languages & Tools</p>
 
-![css](https://github.com/nikilodiym/nikilodiym/assets/134860909/27032677-93af-4a2b-b1d4-594976e85fa0)
-![githubIcon](https://github.com/nikilodiym/nikilodiym/assets/134860909/f71ce3b5-b009-4f94-917a-66e080978536)
-![c++](https://github.com/nikilodiym/nikilodiym/assets/134860909/89d92f9b-975f-40a0-a581-339a9a9d94c1)
-![javascript-3](https://github.com/nikilodiym/nikilodiym/assets/134860909/383d1cc6-5880-4cac-99ba-096db48ae6c3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
