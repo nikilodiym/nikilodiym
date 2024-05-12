@@ -4,12 +4,9 @@
 ![Мої найпопулярніші мови](https://github-readme-stats.vercel.app/api/top-langs/?username=nikilodiym&layout=compact)
 
 <p>⚡ Languages & Tools</p>
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![html](https://github.com/nikilodiym/nikilodiym/assets/134860909/6684010a-d604-47fb-bd2d-2179664e3eb1)
+![css](https://github.com/nikilodiym/nikilodiym/assets/134860909/8412396c-7b02-4062-9f6f-c23bc2ecaa54)
+![javascript-3](https://github.com/nikilodiym/nikilodiym/assets/134860909/c91acd14-93c9-4be7-bc49-4c85bafc901e)
+![c++](https://github.com/nikilodiym/nikilodiym/assets/134860909/f79a1761-59c9-4370-a1dc-e4cca24365cb)
+![visual-studio-code-logo](https://github.com/nikilodiym/nikilodiym/assets/134860909/1345a3dc-e6ca-4cac-b603-0703c18bcf35)
+![githubIcon](https://github.com/nikilodiym/nikilodiym/assets/134860909/00c6e570-4c0c-4383-9b2a-a42daacfd16d)
