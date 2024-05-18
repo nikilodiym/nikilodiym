@@ -11,9 +11,10 @@
 ![Statistics](https://github-readme-stats.vercel.app/api/Statistics/?username=nikilodiym&amp;layout=compact&amp;theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikilodiym&amp;layout=compact&amp;theme=dark)
 
-<h3>📖 Streak stats</h3>
+<h3>✔ Streak stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikilodiym&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikilodiym)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p></p>
 <h3>⚡ Languages & Tools</h3>
