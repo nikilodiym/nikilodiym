@@ -14,8 +14,7 @@
 <h3>✔ Streak stats</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikilodiym&theme=dark)](https://git.io/streak-stats)
-
-[![Nikita Krenov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilodiym&theme=solarized_dark)
 
 <p></p>
 <h3>⚡ Languages & Tools</h3>
