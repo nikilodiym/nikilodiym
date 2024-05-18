@@ -13,7 +13,7 @@
 
 <h3>📖 Streak stats</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikilodiym)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikilodiym)](https://git.io/streak-stats;theme=dark)
 
 <p></p>
 <h3>⚡ Languages & Tools</h3>
