@@ -1,8 +1,5 @@
 <h1>Hi Everyone, I'm Nikita</h1>
 
-![release-radar-sept24](https://github.com/user-attachments/assets/c2810f08-e683-4b31-9dfb-2101d7d6577d)
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
 
