@@ -1,4 +1,4 @@
-<img src="./Робочий стіл" alt="альтернативный текст">
+<img src="C:\Users\krenov\Downloads\Нова папка" alt="">
 
 <h1>Hi Everyone, I'm Nikita</h1>
 
