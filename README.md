@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nikilodiyim/nikilodiyim/main/path_to_your_image.png" alt="Background Image" width="100%" height="auto">
+<img src="https://raw.githubusercontent.com/nikilodiyim/nikilodiyim/main/path_to_your_image.png" alt="" width="100%" height="auto">
 
 
 <h1>Hi Everyone, I'm Nikita</h1>
