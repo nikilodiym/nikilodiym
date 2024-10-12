@@ -1,4 +1,5 @@
-<bg src="https://github.com/user-attachments/assets/2b248e63-495e-4a90-83c2-f04004e0a8d2" alt="">
+<img src="https://raw.githubusercontent.com/nikilodiyim/nikilodiyim/main/path_to_your_image.png" alt="Background Image" width="100%" height="auto">
+
 
 <h1>Hi Everyone, I'm Nikita</h1>
 
