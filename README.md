@@ -1,7 +1,7 @@
-
+<h1>Hi Everyone, I'm Nikita</h1>
 ![68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966](https://github.com/user-attachments/assets/4751644c-948c-403b-9cbb-6c2ec95434ec)
 
-<h1>Hi Everyone, I'm Nikita</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
