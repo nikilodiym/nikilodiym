@@ -1,3 +1,5 @@
+<img src="./Робочий стіл" alt="альтернативный текст">
+
 <h1>Hi Everyone, I'm Nikita</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
