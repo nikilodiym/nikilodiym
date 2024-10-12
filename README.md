@@ -1,4 +1,4 @@
-<img src="(https://github.com/user-attachments/assets/2b248e63-495e-4a90-83c2-f04004e0a8d2)" alt="">
+<img src="https://github.com/user-attachments/assets/2b248e63-495e-4a90-83c2-f04004e0a8d2" alt="">
 ![release-radar-sept24](https://github.com/user-attachments/assets/2b248e63-495e-4a90-83c2-f04004e0a8d2)
 
 <h1>Hi Everyone, I'm Nikita</h1>
