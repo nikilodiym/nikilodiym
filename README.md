@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/nikilodiyim/nikilodiyim/main/path_to_your_image.png" alt="" width="100%" height="auto">
 
-
-<h1>Hi Everyone, I'm Nikita</h1>
+<h1 style="background-image: url('https://github.com/твоє_посилання_на_картинку'); background-size: cover; padding: 20px; color: white;">
+  Hi Everyone, I'm Nikita
+</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
