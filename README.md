@@ -5,9 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
-
-![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
-
 <p></p>
 <h3>📖 Statistics</h3>
 
@@ -31,3 +28,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
