@@ -1,5 +1,5 @@
-
-<h1![release-radar-sept24](https://github.com/user-attachments/assets/0fa8c841-0ef1-4784-aab9-4f3b5429ffc0)
+ style="background-image: url('https://github.com/user-attachments/assets/0fa8c841-0ef1-4784-aab9-4f3b5429ffc0'); background-size: cover; padding: 20px; color: white;">
+<h1>
   Hi Everyone, I'm Nikita
 </h1>
 
