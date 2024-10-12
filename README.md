@@ -1,5 +1,5 @@
 
-<h1 style="background-image: url('https://github.com/твоє_посилання_на_картинку'); background-size: cover; padding: 20px; color: white;">
+<h1 style="background-image: url('https://github.com/user-attachments/assets/2b248e63-495e-4a90-83c2-f04004e0a8d2'); background-size: cover; padding: 20px; color: white;">
   Hi Everyone, I'm Nikita
 </h1>
 
