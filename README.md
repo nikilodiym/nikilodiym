@@ -1,7 +1,5 @@
-
-<h1 style="background-image: url('https://github.com/user-attachments/assets/0fa8c841-0ef1-4784-aab9-4f3b5429ffc0'); background-size: cover; padding: 20; color: white;">
-  Hi Everyone, I'm Nikita
-</h1>
+<h1>Hi Everyone, I'm Nikita</h1>
+![release-radar-sept24](https://github.com/user-attachments/assets/2a0951b0-ccb0-4775-854b-652c502cc160)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
