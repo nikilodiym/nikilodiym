@@ -12,11 +12,11 @@
 <h3>📖 Statistics</h3>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikilodiym&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikilodiym&amp;layout=compact&amp;theme=dark)
+
 
 <h3>✔ Streak stats</h3>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikilodiym&amp;layout=compact&amp;theme=dark)
 
 ![PR](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilodiym&theme=dark)
 
