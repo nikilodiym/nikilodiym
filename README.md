@@ -1,5 +1,8 @@
 <h1>Hi Everyone, I'm Nikita</h1>
 
+![1624889521195379116](https://github.com/user-attachments/assets/1d7054b7-06ff-461f-bd1d-938dabfc9ce4)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
 
