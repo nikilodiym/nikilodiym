@@ -1,7 +1,6 @@
 <h1>Hi Everyone, I'm Nikita</h1>
 
-![1624889521195379116](https://github.com/user-attachments/assets/1d7054b7-06ff-461f-bd1d-938dabfc9ce4)
-
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+C)](https://git.io/typing-svg)
 
@@ -30,4 +29,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
+
