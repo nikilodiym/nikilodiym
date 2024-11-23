@@ -1,6 +1,6 @@
 <h1>Hi Everyone, I'm Nikita</h1>
 
-![github-contribution-grid-snake](https://github.com/nikilodiym-attachments/assets/0497ffe4-6e51-407c-b21d-08d34c7ac0d6)
+![github-contribution-grid-snake](https://github.com/nikilodiym/assets/0497ffe4-6e51-407c-b21d-08d34c7ac0d6)
 
 ![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
 
