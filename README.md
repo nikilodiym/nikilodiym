@@ -14,6 +14,7 @@
 <h3>✔ Streak stats</h3>
 
 ![PR](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilodiym&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikilodiym&repo=CinemaHub&theme=dark&show_owner)](https://github.com/nikilodiym/CinemaHub)
 
 <p></p>
 <h3>⚡ Languages & Tools</h3>
@@ -27,6 +28,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikilodiym&repo=CinemaHub&theme=dark&show_owner)](https://github.com/nikilodiym/CinemaHub)
-
