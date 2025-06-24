@@ -28,5 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-[![Readme Card](https://CinemaHub.vercel.app/api/pin/?username=nikilodiym&repo=CinemaHub)](https://github.com/nikilodiym/CinemaHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikilodiym&repo=CinemaHub)](https://github.com/nikilodiym/CinemaHub)
 
