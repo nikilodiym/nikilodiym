@@ -1,4 +1,4 @@
-<h1>Mihael Jordan</h1>
+<h1>Michael Jordan</h1>
 
 ![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
 
