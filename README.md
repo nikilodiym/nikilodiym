@@ -8,20 +8,44 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+React)](https://git.io/typing-svg)
 
-## 🛠 Technologies & Tools
+## ⚡ Skills & Activity
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,react,html,css,dotnet,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,react,html,css,dotnet,git,github,vscode,figma"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
+### 🌐 Languages
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nikilodiym&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/English-B1-green?style=for-the-badge">
 </p>
 
+</td>
+
+<td width="50%">
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 Activity Graph
