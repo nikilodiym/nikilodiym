@@ -20,13 +20,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,js,react,html,css,dotnet,git,github,vscode,figma"/>
 </p>
 
-### 🌐 Languages
-
-<p align="center">
-<img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/English-B1-green?style=for-the-badge">
-</p>
-
 </td>
 
 <td width="50%">
@@ -35,12 +28,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 </td>
