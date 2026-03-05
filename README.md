@@ -4,9 +4,7 @@
 
 <!-- <h1>Krenov Nikita</h1> -->
 
-![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+ASPNET)](https://git.io/typing-svg)
 
 ## ⚡ Skills & Activity
 
@@ -43,15 +41,6 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- ASP.NET  
-- Razor Pages  
-- Databases  
-- Backend Development  
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
@@ -61,6 +50,8 @@
 </p>
 
 ---
+
+![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
