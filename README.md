@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Nikita%20Krenyov&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1>Krenov Nikita</h1>
 
 ![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
