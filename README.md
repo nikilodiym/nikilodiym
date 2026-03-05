@@ -17,7 +17,7 @@
 ### 🛠 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,nodejs,html,css,tailwind,bootstrap,dotnet,python,java,git,github,vscode,visualstudio,figma,linux,bash,postgres,mysql,mongodb,firebase,docker,webpack,vite"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,nodejs,html,css,bootstrap,dotnet,python,git,github,vscode,visualstudio,figma,linux,bash,postgres,mysql,firebase,docker,reactnative"/>
 </p>
 
 </td>
