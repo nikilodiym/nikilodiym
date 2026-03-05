@@ -4,27 +4,61 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+currently+studying+React)](https://git.io/typing-svg)
 
-<p></p>
-<h3>📖 Statistics</h3>
+## 🛠 Technologies & Tools
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikilodiym&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,react,html,css,dotnet,git,github,vscode,figma" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikilodiym&amp;layout=compact&amp;theme=dark)
+---
 
-<h3>✔ Streak stats</h3>
+## 📊 GitHub Stats
 
-![PR](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikilodiym&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikilodiym&repo=CinemaHub&theme=dark&show_owner)](https://github.com/nikilodiym/CinemaHub)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
-<p></p>
-<h3>⚡ Languages & Tools</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- ASP.NET  
+- Razor Pages  
+- Databases  
+- Backend Development  
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
