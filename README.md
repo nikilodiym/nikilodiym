@@ -4,7 +4,7 @@
 
 <!-- <h1>Krenov Nikita</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+developer)](https://git.io/typing-svg) -->
 
 ## ⚡ Skills & Activity
 
@@ -37,6 +37,7 @@
 
 <p align="center">
 <a href="https://github.com/nikilodiym">
+<p>097 396 7019</p>
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 </p>
