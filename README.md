@@ -19,7 +19,10 @@
 ### 🛠 Technologies & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,nodejs,html,css,bootstrap,dotnet,python,git,github,vscode,visualstudio,figma,linux,bash,postgres,mysql,firebase,docker,reactnative"/>
+  <img 
+    src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,nodejs,html,css,bootstrap,dotnet,python,git,github,vscode,visualstudio,figma,linux,bash,postgres,mysql,firebase,docker,reactnative"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  />
 </p>
 
 </td>
