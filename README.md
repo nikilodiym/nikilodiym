@@ -3,7 +3,7 @@
 <p text-align="center">
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Full-stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn"/> -->
   
-<h1>🖥️ Full-stack developer</h1>
+<h1>             🖥️ Full-stack developer</h1>
   
 </p>
 
