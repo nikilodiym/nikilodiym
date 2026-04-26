@@ -12,7 +12,7 @@
 
 ## ⚡ Skills & Activity
 
-<table>
+<!-- <table> -->
 <tr>
 <td width="50%">
 
@@ -37,7 +37,7 @@
 
 </td>
 </tr>
-</table>
+<!-- </table> -->
 ---
 
 ## 📫 Contact Me
