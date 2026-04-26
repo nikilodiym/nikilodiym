@@ -1,3 +1,5 @@
+<img width="1920" height="597" alt="68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" src="https://github.com/user-attachments/assets/63bf7c30-a0b4-4ccd-bb01-b27b50c303a4" />
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=250&section=header&text=Full-stack%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
