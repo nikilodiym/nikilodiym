@@ -12,32 +12,23 @@
 
 ## ⚡ Skills & Activity
 
-<!-- <table> -->
-<tr>
-<td width="50%">
 
 ### 🛠 Technologies & Tools
 
-<p align="center">
+<p>
   <img 
     src="https://skillicons.dev/icons?i=cpp,cs,js,ts,react,nextjs,nodejs,html,css,bootstrap,dotnet,python,git,github,vscode,visualstudio,figma,linux,bash,postgres,mysql,firebase,docker,reactnative"
     style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
   />
 </p>
 
-</td>
-
-<td width="50%">
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p>
 <img src="https://streak-stats.demolab.com/?user=nikilodiym&theme=tokyonight"/>
 </p>
 
-</td>
-</tr>
-<!-- </table> -->
 ---
 
 ## 📫 Contact Me
