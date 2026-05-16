@@ -29,19 +29,6 @@
 <img src="https://streak-stats.demolab.com/?user=nikilodiym&theme=tokyonight"/>
 </p>
 
----
-
-## 📫 Contact Me
-
-<p align="center">
-<a href="https://github.com/nikilodiym">
-<p>097 396 7019</p>
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
 ![github-contribution-grid-snake-dark](https://github.com/nikilodiym/nikilodiym/assets/134860909/4c1edc95-6b08-45f3-9124-e34a66da9838)
 
 <p align="center">
